@@ -53,12 +53,12 @@ def print_banner():
     print(f"""
 {Colors.CYAN}╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║              W8TERMUXSTYLEPRO - GENERATOR v3.0                ║
+║              CYBER 71 ENAFUL - virtual v3.0                ║
 ║                                                               ║
 ║            Create Your Custom Cyberpunk Terminal              ║
 ║                                                               ║
-║          {Colors.GRAY}Credits: 71Team/ENAFUL{Colors.CYAN}                             ║
-║    {Colors.GRAY}GitHub: https://github.com/CYBER71ENAFUL/Enafule-Terminal.git}             ║
+║          {Colors.GRAY}Credits:ENAFUL{Colors.CYAN}                             ║
+║    {Colors.GRAY}Facebook: https://www.facebook.com/wuninininininininillhniniwo.1234567}             ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝{Colors.RESET}
 """)
