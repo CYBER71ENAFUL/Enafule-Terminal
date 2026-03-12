@@ -58,7 +58,7 @@ def print_banner():
 ║            Create Your Custom Cyberpunk Terminal              ║
 ║                                                               ║
 ║          {Colors.GRAY}Credits:ENAFUL{Colors.CYAN}                             ║
-║    {Colors.GRAY}Facebook: https://www.facebook.com/wuninininininininillhniniwo.1234567}             ║
+║    {Colors.GRAY}Github: https://github.com/CYBER71ENAFUL/Enafule-Terminal.git}             ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝{Colors.RESET}
 """)
