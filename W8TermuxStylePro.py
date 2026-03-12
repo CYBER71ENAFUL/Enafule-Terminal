@@ -57,8 +57,8 @@ def print_banner():
 ║                                                               ║
 ║            Create Your Custom Cyberpunk Terminal              ║
 ║                                                               ║
-║          {Colors.GRAY}Credits: W8Team/W8SOJIB{Colors.CYAN}                             ║
-║    {Colors.GRAY}GitHub: github.com/W8SOJIB/W8TermuxStylePro{Colors.CYAN}             ║
+║          {Colors.GRAY}Credits: 71Team/ENAFUL{Colors.CYAN}                             ║
+║    {Colors.GRAY}GitHub: https://github.com/CYBER71ENAFUL/Enafule-Terminal.git}             ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝{Colors.RESET}
 """)
